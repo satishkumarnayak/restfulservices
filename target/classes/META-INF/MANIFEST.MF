@@ -3,7 +3,7 @@ Implementation-Title: restfulservices
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Satish_Nayak
 Implementation-Vendor-Id: com.demo.restful
-Build-Jdk: 1.8.0_191
+Build-Jdk: 1.8.0_121
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/restfulservices
 Created-By: Maven Integration for Eclipse
